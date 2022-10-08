@@ -1,5 +1,15 @@
 {
   "posts": [
-   
-  ]
+    {
+      "title": "adaddaddad",
+      "body": "dasddawd",
+      "id": 1
+    },
+    {
+      "title": "adaddaddad",
+      "body": "dasddawd",
+      "id": 2
+    }
+  ],
+  "users": []
 }
